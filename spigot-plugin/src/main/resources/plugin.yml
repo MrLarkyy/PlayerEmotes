@@ -1,0 +1,6 @@
+name: PlayerEmotes
+version: '${project.version}'
+main: cz.larkyy.playeremotes.spigotplugin.PlayerEmotes
+api-version: 1.17
+commands:
+  playeremotes:
